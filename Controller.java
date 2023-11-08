@@ -5,6 +5,9 @@ import java.awt.event.ActionListener;
 /**
  * Controller class for the program, reads information from the buttons in GUI
  * and interacts with both GUI and Model for the program to function
+ * @author Jose Merida
+ * @version 1.0
+ * @since 07-11-2023
  */
 public class Controller implements ActionListener {
     private GUI mainGUI;
